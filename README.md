@@ -1,10 +1,10 @@
-# [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
+# [Tittle-Tattle]
 
-[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+
 
 ## Preview
 
-[![New Age Preview](https://i.ytimg.com/vi/R28zmilcqnk/hqdefault.jpg)
+[![New Age Preview](https://drive.google.com/open?id=1S62FFTlvEaTOBzqzyF93PwAxqdLetmky)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-new-age/)**
 
