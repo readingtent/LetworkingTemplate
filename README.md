@@ -1,6 +1,7 @@
 # [Tittle-Tattle]
 
 
+[![Preview](https://i.imgur.com/OpGXoXj.jpg]
 
 ## About
 
