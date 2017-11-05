@@ -1,7 +1,7 @@
 # [Tittle-Tattle]
 
 
-[![Preview](https://i.imgur.com/OpGXoXj.jpg]
+[![New Age Preview](https://startbootstrap.com/assets/img/templates/new-age.jpg)](https://blackrockdigital.github.io/startbootstrap-new-age/)
 
 ## About
 
